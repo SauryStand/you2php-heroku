@@ -6,7 +6,7 @@
   "success_url": "/install.php",
   "env":{
     "APIKEY":{
-      "description": "Youtube API V3 KEY",
+      "description": "AIzaSyCWCdIEg4_wVvkG_4f-7yxToJe2GoGOhKo",
       "value": ""
     },
     "GJ_CODE":{
@@ -14,11 +14,11 @@
       "value": "US"
     },
     "SITE_NAME":{
-      "description": "站点名字",
+      "description": "spindrift",
       "value": "Y2"
     },
     "TITLENAME":{
-      "description": "TITLENAME",
+      "description": "spindrift",
       "value": "Y2"
     },
     "EN2DEKEY":{
